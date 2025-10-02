@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "ADHD",
+    "image": "/src/assets/adhd.jpg",
+    "description": "Attention Deficit Hyperactivity Disorder (ADHD) affects attention, impulsivity, and self-control.",
+    "link": "/adhd"
+  },
+  {
+    "id": 2,
+    "title": "Depression",
+    "image": "/src/assets/depression-symptoms.jpg",
+    "description": "A mood disorder causing persistent feelings of sadness and loss of interest.",
+    "link": "/depression"
+  },
+  {
+    "id": 3,
+    "title": "Bipolar Disorder",
+    "image": "/src/assets/bipolar.jpeg",
+    "description": "A mental condition marked by alternating periods of elation and depression.",
+    "link": "/bipolar"
+  },
+  {
+    "id": 4,
+    "title": "PTSD",
+    "image": "/src/assets/ptsd.png",
+    "description": "Post-Traumatic Stress Disorder occurs after experiencing or witnessing traumatic events.",
+    "link": "/ptsd"
+  },
+  {
+    "id": 5,
+    "title": "Schizophrenia",
+    "image": "/src/assets/Schizophrenia.jpeg",
+    "description": "A severe disorder affecting thinking, emotions, and behavior.",
+    "link": "/schizophrenia"
+  },
+  {
+    "id": 6,
+    "title": "Anxiety",
+    "image": "/src/assets/Anxiety.jpeg",
+    "description": "Anxiety disorders involve excessive fear, worry, or nervousness.",
+    "link": "/anxiety"
+  },
+  {
+    "id": 7,
+    "title": "Eating Disorder",
+    "image": "/src/assets/Eating Disorder.jpeg",
+    "description": "Conditions like anorexia or bulimia that affect eating behaviors and health.",
+    "link": "/eating-disorder"
+  },
+  {
+    "id": 8,
+    "title": "Paranoia",
+    "image": "/src/assets/Paranoia.jpeg",
+    "description": "Paranoia is an irrational distrust or suspicion of others.",
+    "link": "/paranoia"
+  }
+]

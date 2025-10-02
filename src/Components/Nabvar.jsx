@@ -15,7 +15,7 @@ const Navbar = () => {
   return (
     <div className="flex justify-between items-center max-w-11/12 mx-auto mt-6 px-4 font-semibold">
       {/* Logo */}
-      <div className="text-xl font-bold">Logo</div>
+      <div className="text-xl font-bold">Logo <span className='text-sm '>(স্যার আপনে একটা লোগো ঠিক করে দিতে পারেন)</span></div>
 
       {/* Desktop Menu */}
       <div className="hidden md:block">

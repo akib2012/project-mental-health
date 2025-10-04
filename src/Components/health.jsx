@@ -15,7 +15,7 @@ const Health = () => {
             <div className='max-w-8/12 mx-auto py-6'>
                 <h1 className='text-center text-4xl font-semibold'>Mental Health</h1>
                 <p className='text-center py-5'>read more mental helth related topic</p>
-                <div className='grid grid-cols-4 gap-9'>
+                <div className='grid grid-cols-2 md:grid-cols-4 gap-9'>
                     {
                         healthdata.map(data => <Helthinfo data={data}></Helthinfo>)
                     }

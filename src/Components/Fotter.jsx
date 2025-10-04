@@ -4,11 +4,11 @@ const Fotter = () => {
     return (
         <div>
             <div className=' flex  flex-col justify-center items-center py-20'>
-                <h4 className='text-4xl font-semibold py-5'>Unlocking well-being excellence</h4>
+                <h4 className=' text-2xl md:text-4xl font-semibold py-5 '>Unlocking well-being excellence</h4>
                 <p className='text-xl text-gray-400 max-w-[700px] text-center'>A website to keep track of your mental health, write journals, chat anonymously and get a personalized result based on your quiz.</p>
             </div>
             <div className=' flex justify-center items-center'>
-                <div className="grid grid-cols-1 sm:grid-cols-2 gap-14 my-7 max-w-10/12 mx-auto">
+                <div className="grid grid-cols-1 sm:grid-cols-2 gap-14 my-7 max-w-10/12 mx-auto ">
 
                     <div className="flex items-start gap-4">
                         <div className="flex-shrink-0 bg-indigo-600 text-white p-3 rounded-lg">
@@ -74,6 +74,11 @@ const Fotter = () => {
                         </div>
                     </div>
                 </div>
+            </div>
+            <div className="w-full bg-gray-900 text-white py-4 text-center">
+                <p className="text-sm md:text-base font-semibold tracking-wide">
+                    Developed by <span className="text-blue-400">Akib</span>
+                </p>
             </div>
         </div>
     );
